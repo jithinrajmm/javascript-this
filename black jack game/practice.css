@@ -1,0 +1,22 @@
+#orange-el{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    padding: 20px;
+    margin: auto;
+    height:50px;
+    width :300px;
+    background-color: orange;
+}
+#yellow-el{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    text-align: center;
+    padding: 20px;
+    margin: auto;
+    height: 50px;
+    width: 300px;
+    background-color: yellow;
+    margin-top: 20px;
+}
